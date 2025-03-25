@@ -41,7 +41,7 @@ def get_company_tickers():
 
 def get_8k_filings(cik, count=10):
     """Retrieve 8-K filings for a given CIK"""
-    search_url = f"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK={cik}&type=8-K&count={count}&output=atom"
+    search_url = f"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK={cik}&type=10-K&count={count}&output=atom"
     print(f"Search URL: {search_url}")
     response = r.get(search_url, headers=headers)
 

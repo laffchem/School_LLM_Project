@@ -14,7 +14,7 @@ def get_ai_response(client: genai.Client, text: str, company_name: str, ticker: 
     Please extract the following information:
     1. New Product Name: The name of any newly announced product or service
     2. Product Description: A concise description of the product (less than 180 characters)
-    These won't be explicitly labeled, you will need to parse the filings to find anything of relevance.
+    Can you figure out if there is a new product announcement in this filing? If so, please put forth your best guess into what it is.
     Anything of relevance in the filing should fit in the response as formatted below. This does not necessarily need to be a product, but I want it to fit into the response format below.
     Format your response as: 
     New Product: [product name]
