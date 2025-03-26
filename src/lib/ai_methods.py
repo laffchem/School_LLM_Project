@@ -38,7 +38,7 @@ def parse_llm_response(response):
     # print(f"Parsed Response Lines: {lines}")
 
     for line in lines:
-        print(f"Processing line: {line}")
+        # print(f"Processing line: {line}")
         if line.startswith("New Product:"):
             product_name = line.replace("New Product:", "").strip()
         elif line.startswith("Product Description:"):

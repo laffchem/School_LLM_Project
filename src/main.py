@@ -20,6 +20,10 @@ def main(client: genai.Client):
     # Process companies (limit to a smaller number for testing)
     for index, company in companies_df.head(100).iterrows():
         print(f"Processing {company['title']} ({company['ticker']})")
+        print(
+            "Company Name | Stock Name | Filing Time | New Product | Product Description"
+        )
+        print("-" * 100)
 
         filings = get_8k_filings(company["cik"], count=5)  # Start with a small count
 
@@ -35,6 +39,8 @@ def main(client: genai.Client):
                 )
 
                 if product_name:  # Only add if product was found
+                    formatted_result = f"{company['title']} | {company['ticker']} | {filing['filing_time']} | {product_name} | {product_description}"
+                    print(formatted_result)
                     results.append(
                         {
                             "company_name": company["title"],

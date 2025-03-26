@@ -1,1 +1,498 @@
-
+company_name,stock_name,filing_time,new_product,product_description
+Apple Inc.,AAPL,2023-11-02T18:08:27-04:00,**Electronic Computers**,"**Apple Inc. is classified under SIC code 3571, which refers to Electronic Computers.**"
+Apple Inc.,AAPL,2021-10-28T18:04:28-04:00,N/A,"Annual Report for the period ending September 25, 2021."
+Apple Inc.,AAPL,2020-10-29T18:06:25-04:00,iPhone 12 (Hypothetical),"Apple's latest flagship smartphone, featuring advanced processing power and camera capabilities."
+Apple Inc.,AAPL,2019-10-30T18:12:36-04:00,Graphic,"chart-06f17b4ddd9352dc8dc.jpg (GRAPHIC, 79662)"
+Apple Inc.,AAPL,2018-11-05T08:01:40-05:00,Electronic Computers,"Apple Inc. is categorized under SIC code 3571, which is electronic computers."
+Apple Inc.,AAPL,2017-11-03T08:01:37-04:00,GRAPHIC,"Likely product advertisement materials, unable to determine specific product."
+NVIDIA CORP,NVDA,2025-02-26T16:48:33-05:00,Undetermined (Likely related to semiconductors),Information unavailable. Potentially a new semiconductor or related device.
+NVIDIA CORP,NVDA,2023-02-24T17:23:43-05:00,N/A,N/A
+NVIDIA CORP,NVDA,2021-02-26T17:03:14-05:00,N/A,N/A
+NVIDIA CORP,NVDA,2020-02-20T16:38:18-05:00,Semiconductors & Related Devices,"Development, manufacturing, and marketing of high-performance graphics processing units (GPUs) and related software and services."
+NVIDIA CORP,NVDA,2019-02-21T16:37:18-05:00,Amended and Restated 2007 Equity Incentive Plan,Amendments and restatements to NVIDIA's equity incentive plan.
+NVIDIA CORP,NVDA,2018-02-28T16:31:19-05:00,Amended and Restated 2012 Employee Stock Purchase Plan,Amended version of the company's existing employee stock purchase plan.
+NVIDIA CORP,NVDA,2017-03-01T17:30:49-05:00,NVIDIA Semiconductors & Related Devices,Annual report on semiconductors and related devices.
+MICROSOFT CORP,MSFT,2024-07-30T16:06:22-04:00,Azure AI Studio,"A comprehensive platform for building, deploying, and managing AI solutions, integrating various AI services and tools."
+MICROSOFT CORP,MSFT,2022-07-28T16:06:19-04:00,Prepackaged Software,"Microsoft, as indicated by SIC code 7372, operates in the realm of prepackaged software services. This includes developing and distributing software products."
+MICROSOFT CORP,MSFT,2020-07-30T20:44:46-04:00,Microsoft 365,Implied from filenames msft-ex1025_365.htm and msft-ex1026_364.htm. This could relate to updates or new licensing agreements for Microsoft 365.
+MICROSOFT CORP,MSFT,2019-08-01T16:09:55-04:00,Prepackaged Software,Microsoft's prepackaged software services and products are detailed in this 10-K filing.
+MICROSOFT CORP,MSFT,2017-08-02T16:15:01-04:00,XBRL Taxonomy Extension,Taxonomy extension schema for financial reporting
+MICROSOFT CORP,MSFT,2016-07-28T16:12:18-04:00,Software Updates,"Microsoft is likely to release updates and new versions for existing software products, but specifics are not mentioned in the provided filing information."
+MICROSOFT CORP,MSFT,2015-07-31T15:07:52-04:00,Prepackaged Software,Microsoft is in the business of providing prepackaged software as stated in the SIC code.
+AMAZON COM INC,AMZN,2023-02-02T18:27:34-05:00,XBRL Taxonomy Extension,"Taxonomy schema used to generate eXtensible Business Reporting Language (XBRL) documents for financial reporting, enhancing data standardization and analysis."
+AMAZON COM INC,AMZN,2022-02-03T18:46:51-05:00,Interactive Data,"Unclear from the provided text, but it likely refers to tools or datasets for analyzing Amazon's business performance."
+AMAZON COM INC,AMZN,2021-02-02T19:44:10-05:00,Retail-Catalog & Mail-Order Houses,"Amazon operates in the retail sector, specifically catalog and mail-order houses, which encompasses a broad range of product offerings and services."
+AMAZON COM INC,AMZN,2020-01-30T20:46:13-05:00,Retail-Catalog & Mail-Order Services,"Continued offerings of retail goods and services through online platforms, catalogs, and mail-order channels, as reflected in the company's SIC code."
+AMAZON COM INC,AMZN,2019-01-31T20:22:40-05:00,SEC Filing (Form 10-K),Annual report providing financial and business performance information for Amazon.com Inc. as required by the SEC.
+AMAZON COM INC,AMZN,2018-02-01T20:41:15-05:00,N/A,N/A
+AMAZON COM INC,AMZN,2017-02-09T17:56:36-05:00,Interactive Data,"XBRL instance documents, taxonomy extension schema, calculation, definition, label, and presentation linkbase documents. (Based on EX-101 files)"
+AMAZON COM INC,AMZN,2016-01-28T19:38:11-05:00,Interactive Data/XBRL Filings,Enhanced data accessibility and analysis tools using XBRL for financial reporting.
+Alphabet Inc.,GOOGL,2025-02-04T20:41:40-05:00,N/A,"The document is a 10-K annual report. As such, it is unlikely to contain new product announcements."
+Alphabet Inc.,GOOGL,2024-01-30T21:43:43-05:00,AI Services/Infrastructure,"The filing mentions the company falls under the SIC code ""7370 Services-Computer Programming, Data Processing, Etc."" This could indicate enhanced or new AI offerings."
+Alphabet Inc.,GOOGL,2022-02-01T21:08:02-05:00,AI Technology Updates and Improvements,Improvements and updates to Google's AI technologies and cloud offerings.
+Alphabet Inc.,GOOGL,2021-02-02T20:12:25-05:00,Data Processing Services,"Computer programming and data processing, as indicated by the SIC code 7370."
+Alphabet Inc.,GOOGL,2018-02-05T20:46:29-05:00,[Google Cloud Services Enhancements],"[Ongoing improvements and updates to Google's cloud computing platform for businesses, focusing on data processing and programming services.]"
+Alphabet Inc.,GOOGL,2017-02-02T18:13:47-05:00,N/A,"Computer Programming, Data Processing, Etc."
+"Meta Platforms, Inc.",META,2024-02-01T19:39:02-05:00,"Potentially a new feature or update related to existing Meta platforms (Facebook, Instagram, WhatsApp, etc.)","Based on Meta's focus, this could be related to AI, metaverse, social networking, or advertising."
+"Meta Platforms, Inc.",META,2023-02-01T20:26:31-05:00,Could relate to Metaverse advancements.,"Graphics files may showcase new features, environments, or applications within Meta's Metaverse initiatives."
+"Meta Platforms, Inc.",META,2022-02-02T21:11:04-05:00,Metaverse,"Meta Platforms, Inc. appears to be focusing on development in the metaverse, as implied by the company name. This is supported by the many graphic files included."
+"Meta Platforms, Inc.",META,2021-01-27T21:13:48-05:00,Data Processing Services,"Computer programming and data processing services, as indicated by the SIC code 7370."
+"Meta Platforms, Inc.",META,2019-01-31T16:58:29-05:00,User Metrics,User metrics for Facebook in Q4 2018
+"Meta Platforms, Inc.",META,2018-02-01T16:58:26-05:00,User Metrics,User metrics for Facebook are included as a graphic within the 10-K filing. The graphic is labelled usermetricsfbimage123115a08.jpg
+"Meta Platforms, Inc.",META,2017-02-02T21:13:52-05:00,Facebook Live,Service where users can stream live video.
+BERKSHIRE HATHAWAY INC,BRK-B,2025-02-24T06:03:00-05:00,New Insurance Policy Offering (Hypothetical),A potentially new type of insurance policy covering a specific risk or designed for a new customer segment.
+BERKSHIRE HATHAWAY INC,BRK-B,2024-02-26T06:08:31-05:00,[Unable to Determine],[Unable to Determine]
+BERKSHIRE HATHAWAY INC,BRK-B,2018-02-26T06:12:56-05:00,N/A,N/A
+Broadcom Inc.,AVGO,2023-12-14T16:54:05-05:00,Semiconductors & Related Devices,"Broadcom likely discusses its existing and potentially new semiconductor products, technologies, and related services within its annual report."
+Broadcom Inc.,AVGO,2021-12-17T16:42:51-05:00,Semiconductors and Related Devices,"Broadcom's core business encompasses the design, development, and supply of a wide range of semiconductor solutions."
+Broadcom Inc.,AVGO,2019-12-20T16:10:06-05:00,Performance Stock Unit Award Agreement,Agreement under Broadcom Corporation 2012 Stock Incentive Plan
+Broadcom Inc.,AVGO,2018-12-21T17:17:50-05:00,Semiconductors & Related Devices,Broadcom Inc. operates in the Semiconductors & Related Devices industry.
+"Tesla, Inc.",TSLA,2025-01-29T20:42:33-05:00,Self-Driving Software Update,"Tesla is expected to release further updates to their self-driving software, enhancing autopilot and full self-driving capabilities."
+"Tesla, Inc.",TSLA,2024-01-26T21:00:20-05:00,Next Generation Electric Vehicle or Energy Product,"Details regarding new features, models, or improvements to existing Tesla vehicles or energy solutions might be included in the full 10-K report."
+"Tesla, Inc.",TSLA,2022-04-29T18:05:17-04:00,N/A,N/A
+"Tesla, Inc.",TSLA,2021-04-30T17:09:45-04:00,Potential Enhancements to Existing Vehicle Models,"Could involve updates/improvements to Tesla's existing car models (e.g., Model S, Model 3, Model X, Model Y), but the filing doesn't provide specifics."
+"Tesla, Inc.",TSLA,2021-02-08T07:27:23-05:00,[Tesla Full Self-Driving (FSD)],[Ongoing development and improvement of autonomous driving capabilities for Tesla vehicles.]
+"Tesla, Inc.",TSLA,2020-04-28T07:01:05-04:00,N/A,N/A
+"Tesla, Inc.",TSLA,2020-02-13T07:12:18-05:00,N/A,N/A
+ELI LILLY & Co,LLY,2024-02-21T11:44:37-05:00,Pharmaceutical Preparations,Overview of the company's financial year end for pharmaceutical preparations.
+ELI LILLY & Co,LLY,2023-02-22T10:26:53-05:00,N/A,Annual Report for ELI LILLY & Co for the fiscal year end 2022-12-31.
+ELI LILLY & Co,LLY,2022-02-23T11:00:57-05:00,Pharmaceutical Preparations,Eli Lilly & Co. is in the business of pharmaceutical preparations. This 10K filing may include updates or details related to ongoing research and development in this area.
+ELI LILLY & Co,LLY,2021-02-17T10:59:12-05:00,*Hypothetical New Drug*,A pharmaceutical preparation for [insert disease/ailment]. Details may be found in exhibits EX-10.2 - EX-10.15
+ELI LILLY & Co,LLY,2020-02-19T12:33:26-05:00,ELI LILLY AND COMPANY PERFORMANCE AWARD,"Performance award for executive officers, possibly tied to the success of new or existing products."
+ELI LILLY & Co,LLY,2018-02-20T17:27:37-05:00,ELI LILLY AND COMPANY PERFORMANCE AWARD (FOR EXECUTIVE OFFICERS),A performance-based compensation plan for executive officers. This is technically a new offering (program/award).
+ELI LILLY & Co,LLY,2017-02-21T15:32:29-05:00,ELI LILLY AND COMPANY PERFORMANCE AWARD (FOR EXECUTIVE OFFICERS),Award for executive officers based on performance.
+ELI LILLY & Co,LLY,2016-02-19T15:42:05-05:00,ELI LILLY AND COMPANY SHAREHOLDER VALUE AWARD (FOR EXECUTIVE OFFICERS),"Award for executive officers, details in exhibit EX-10.3."
+Walmart Inc.,WMT,2025-03-14T16:40:52-04:00,N/A,N/A
+Walmart Inc.,WMT,2023-03-17T17:02:59-04:00,Walmart+ Membership Program,"A membership program offering benefits like free shipping, streaming service subscriptions, and fuel discounts to enhance the shopping experience."
+Walmart Inc.,WMT,2020-03-20T16:51:02-04:00,Walmart Online Grocery Pickup and Delivery Expansion,"Continued expansion and improvement of Walmart's online grocery ordering, pickup, and delivery services to new markets and customer segments."
+Walmart Inc.,WMT,2019-03-28T16:56:37-04:00,Amended Walmart Deferred Compensation Matching Plan,Amendments to employee deferred compensation matching plan.
+Walmart Inc.,WMT,2018-03-30T16:01:22-04:00,Amended and Restated Officer/Associate Compensation Plans,"Revisions to deferred compensation, stock purchase, and incentive plans for officers and associates."
+Walmart Inc.,WMT,2017-03-31T16:54:02-04:00,Marc Lore Acquisition,"Walmart acquired Marc Lore, an e-commerce entrepreneur. Documents related to the merger consideration and non-compete agreements are included in the filing."
+Walmart Inc.,WMT,2016-03-30T17:18:29-04:00,Form of Stock Incentive Plan - Share-Settled Restricted Stock Unit (WMT Canada),New stock incentive plan for Canadian employees with restricted stock units settled in shares.
+JPMORGAN CHASE & CO,JPM,2024-02-16T16:20:22-05:00,Unknown,Unable to determine any new products or services from the provided 8-K filing information.
+JPMORGAN CHASE & CO,JPM,2023-02-21T16:13:55-05:00,Undetermined new initiative.,"Refer to exhibits EX-4.6, EX-10.18, EX-21, EX-22.2, EX-23, EX-31.1, EX-31.2, and EX-32 for potential details."
+JPMORGAN CHASE & CO,JPM,2022-02-22T16:56:31-05:00,Enhanced Mobile Banking Experience,"Improvement in mobile banking platform, offering more user-friendly interfaces, and expanded financial services."
+JPMORGAN CHASE & CO,JPM,2020-02-25T16:31:02-05:00,Enhanced Capital Management Strategies,"Strategies to optimize capital components and ratios, as detailed in exhibits and graphic files."
+JPMORGAN CHASE & CO,JPM,2019-02-26T16:57:25-05:00,XBRL Taxonomy Extension,Updates or extensions to JPMorgan Chase's XBRL reporting taxonomy.
+JPMORGAN CHASE & CO,JPM,2018-02-27T16:23:03-05:00,Digital Banking Services,"Enhancements and expansions to JPMorgan Chase's digital banking platforms and mobile applications, offering customers greater convenience and accessibility."
+JPMORGAN CHASE & CO,JPM,2016-02-23T16:17:46-05:00,2016 Long-Term Incentive Plan (Performance Share Unit Award),Terms and conditions for the 2016 performance share unit awards within the long-term incentive plan.
+VISA INC.,V,2020-11-19T16:03:34-05:00,Undetermined,Could not determine based on the filing.
+VISA INC.,V,2019-11-14T15:35:00-05:00,New Payment Solutions,"The graphic ""newpays19.jpg"" suggests the company is introducing new payment solutions or services. More specifics are unavailable without further context."
+VISA INC.,V,2018-11-16T16:10:27-05:00,Enhanced Payment Security,"Visa is focused on improving payment security as highlighted by graphic ""paymentsecuritya04.jpg"""
+VISA INC.,V,2017-11-16T20:07:25-05:00,Payment Security Solutions,Focus on secure payment technologies and solutions.
+VISA INC.,V,2016-11-15T16:44:02-05:00,VisaNet,VisaNet is mentioned in the document. It is likely VISA's network.
+VISA INC.,V,2015-11-19T18:24:51-05:00,Amended Loss Sharing Agreement,An amendment to the existing loss sharing agreement.
+EXXON MOBIL CORP,XOM,2025-02-19T16:39:37-05:00,**EXTENDED PROVISIONS FOR RESTRICTED STOCK UNIT AGREEMENTS-SETTLEMENT IN SHARES**,Details regarding extended provisions for restricted stock unit agreements with settlement in shares.
+EXXON MOBIL CORP,XOM,2024-02-28T16:37:18-05:00,EXTENDED PROVISIONS FOR RESTRICTED STOCK UNIT AGREEMENTS-SETTLEMENT IN SHARES,Details regarding the terms and conditions for settling restricted stock units with company shares.
+EXXON MOBIL CORP,XOM,2022-02-23T16:11:16-05:00,RESTRICTED STOCK UNIT AGREEMENTS,Extended provisions for restricted stock unit agreements with settlement in shares for employees/directors.
+EXXON MOBIL CORP,XOM,2021-02-24T17:01:02-05:00,Restricted Stock Grant,Form of Restricted Stock Grant Letter for Non-Employee Directors
+EXXON MOBIL CORP,XOM,2019-02-27T16:19:37-05:00,EARNINGS BONUS UNIT INSTRUMENT,"Incentive program instrument for employees, potentially linked to company earnings performance."
+EXXON MOBIL CORP,XOM,2018-02-28T16:39:51-05:00,Extended Provisions for Restricted Stock Unit Agreements - Settlement in Shares,Extended Provisions for Restricted Stock Unit Agreements regarding settlement in shares.
+EXXON MOBIL CORP,XOM,2017-02-22T16:47:56-05:00,Earnings Bonus Unit Instrument,Instrument related to earning bonus units for employees.
+EXXON MOBIL CORP,XOM,2016-02-24T16:09:22-05:00,Petroleum Refining,Refining of petroleum.
+Mastercard Inc,MA,2025-02-12T14:30:36-05:00,N/A,N/A
+Mastercard Inc,MA,2024-02-13T12:47:32-05:00,Undetermined,"The filing is a 10-K annual report, which generally provides a comprehensive overview of a company's performance and activities, rather than focusing on specific new product launches."
+Mastercard Inc,MA,2023-02-14T16:48:22-05:00,"Potentially related to content in graphic files (e.g., ma-20221231_g16.jpg)",Unable to determine without access to the image content.
+Mastercard Inc,MA,2022-02-11T09:52:16-05:00,**Interactive Data**,"**XBRL taxonomy extension schema and other data files (calculation, definition, label, presentation) as part of the 10-K filing.**"
+Mastercard Inc,MA,2021-02-12T10:44:10-05:00,Enhanced Payment Solutions,Mastercard likely continues to innovate and develop new payment solutions and technologies within its existing business model.
+Mastercard Inc,MA,2020-02-14T09:29:40-05:00,New Payment Flows,Related to new methods of money movement in the Mastercard network.
+Mastercard Inc,MA,2019-02-13T10:03:54-05:00,Network Processor,Cannot determine description from the file name alone.
+Mastercard Inc,MA,2018-02-14T12:37:09-05:00,Commercial Solutions,Products and services for commercial clients and businesses
+Mastercard Inc,MA,2017-02-15T10:22:25-05:00,Core Products (speculative based on macoreproducts.jpg),Could refer to Mastercard's core payment processing services or a suite of products related to core functionality. (speculative)
+UNITEDHEALTH GROUP INC,UNH,2025-02-27T17:16:21-05:00,Enhanced Medical Service Plans,UnitedHealth Group is possibly improving/updating their hospital and medical service plans for their customers.
+UNITEDHEALTH GROUP INC,UNH,2024-02-28T17:08:12-05:00,Enhanced Healthcare Plans,"UnitedHealth Group offers and enhances various healthcare plans, including hospital and medical service plans, as part of its core business."
+UNITEDHEALTH GROUP INC,UNH,2021-03-01T16:02:27-05:00,Hospital & Medical Service Plans,"UnitedHealth Group provides Hospital & Medical Service Plans, based on their SIC code."
+UNITEDHEALTH GROUP INC,UNH,2020-02-14T17:18:38-05:00,Updated Healthcare Plans,"Modifications and enhancements to existing hospital and medical service plans, potentially including new features, coverage options, or pricing structures."
+UNITEDHEALTH GROUP INC,UNH,2019-02-12T17:16:04-05:00,Hospital & Medical Service Plans,UnitedHealth Group provides hospital and medical service plans.
+UNITEDHEALTH GROUP INC,UNH,2018-02-13T16:10:43-05:00,Medical Service Plans,Hospital and medical service plans for individuals and groups.
+UNITEDHEALTH GROUP INC,UNH,2017-02-08T16:22:01-05:00,Enhanced Healthcare Benefit Plans (Speculative),Improved medical service plans with broader coverage & integrated wellness programs designed to improve patient outcomes & lower healthcare costs (Speculative)
+UNITEDHEALTH GROUP INC,UNH,2016-02-09T16:12:06-05:00,Healthcare service plans (based on SIC code 6324),Hospital & Medical Service Plans - likely refers to UnitedHealth Group's core offerings.
+ORACLE CORP,ORCL,2024-06-20T16:21:35-04:00,Oracle Cloud Services,"Comprehensive suite of cloud-based solutions for database management, application development, and enterprise resource planning."
+ORACLE CORP,ORCL,2023-06-20T16:06:29-04:00,"""orcl-20230531""","""Potentially a new database or software version associated with the 2023-05-31 reporting period as presented in XBRL format (highly speculative)."""
+ORACLE CORP,ORCL,2021-06-21T16:10:31-04:00,Prepackaged Software Services,Oracle offers services in the prepackaged software industry.
+ORACLE CORP,ORCL,2020-06-22T16:25:49-04:00,N/A,N/A
+ORACLE CORP,ORCL,2018-06-22T16:09:07-04:00,Prepackaged Software Services,Services related to prepackaged software offerings.
+ORACLE CORP,ORCL,2017-06-27T16:05:35-04:00,Prepackaged Software,"Oracle's main SIC is 7372 Services-Prepackaged Software, implying continued focus in this area. This may infer new products within this category."
+ORACLE CORP,ORCL,2015-06-25T17:03:14-04:00,XBRL Taxonomy Extension,"Extension of XBRL for financial reporting, encompassing schema, calculation, definition, label, and presentation linkbases."
+COSTCO WHOLESALE CORP /NEW,COST,2022-10-04T21:59:05-04:00,XBRL Taxonomy Extension,"New XBRL taxonomy extension schema, calculation, definition, label, and presentation linkbase documents for financial reporting."
+COSTCO WHOLESALE CORP /NEW,COST,2018-10-26T09:21:46-04:00,Costco Membership,Access to a wide variety of goods and services at discounted prices through a membership-based retail model.
+COSTCO WHOLESALE CORP /NEW,COST,2017-10-17T21:17:47-04:00,Costco Membership,"Access to discounted goods and services in warehouses and online, including groceries, electronics, apparel, and exclusive member benefits."
+COSTCO WHOLESALE CORP /NEW,COST,2016-10-20T20:44:05-04:00,Amendment to Annual Report (Form 10-K/A),"Filing to amend the annual report for the fiscal year ending August 28, 2016."
+NETFLIX INC,NFLX,2024-01-26T16:01:56-05:00,XBRL formatted 10-K filing,"Digital, machine-readable format for financial reporting, enhancing data accessibility and analysis."
+NETFLIX INC,NFLX,2023-01-26T16:03:50-05:00,Interactive Data,XBRL data for financial reporting.
+NETFLIX INC,NFLX,2022-01-27T17:03:33-05:00,Global Stock Option Plan,Stock options granted to employees globally under EX-10.11 and EX-10.12 exhibits to incentivize and reward performance.
+NETFLIX INC,NFLX,2020-01-29T16:03:25-05:00,N/A,N/A
+NETFLIX INC,NFLX,2019-02-08T13:25:19-05:00,Original Video Content,"Netflix consistently releases original series, films, and documentaries as part of its subscription service to attract and retain subscribers."
+NETFLIX INC,NFLX,2018-02-02T19:13:16-05:00,Netflix Streaming Content,"New movies, TV shows, documentaries, and other video content added to the Netflix streaming library."
+NETFLIX INC,NFLX,2018-01-29T17:29:30-05:00,Timeline of 2017 Developments,"Visual summary of key content releases, platform updates, and business milestones achieved by Netflix during 2017."
+PROCTER & GAMBLE Co,PG,2024-08-05T16:16:53-04:00,Senior Executive Officer Recoupment Policy,Policy outlining conditions under which the company can recoup compensation from senior executives (EX-10.16)
+PROCTER & GAMBLE Co,PG,2023-08-04T16:16:13-04:00,3.250% Notes Due 2026 and 3.250% Notes Due 2031,Description of the company's notes due in 2026 and 2031 (debt instruments).
+PROCTER & GAMBLE Co,PG,2022-08-05T16:21:50-04:00,Directors and Officers Insurance Program,"Summary of Directors and Officers Insurance Program, detailed in Exhibit 99.1."
+PROCTER & GAMBLE Co,PG,2021-08-06T16:19:59-04:00,[Soap/Detergent/Cosmetic product],"[new soap, detergent, cleaning preparation, perfume, or cosmetic product by P&G]"
+PROCTER & GAMBLE Co,PG,2020-08-07T19:26:38-04:00,THE PROCTER & GAMBLE 2019 STOCK & INCENT COMP PLAN,"Procter & Gamble's 2019 stock and incentive compensation plan, including additional terms and conditions and related correspondence."
+PROCTER & GAMBLE Co,PG,2020-08-06T16:17:03-04:00,THE PROCTER & GAMBLE 2019 STOCK & INCENT COMP PLAN,"Procter & Gamble's 2019 stock and incentive compensation plan, including additional terms and conditions."
+PROCTER & GAMBLE Co,PG,2019-08-06T16:26:04-04:00,LONG-TERM INCENTIVE PROGRAM,Incentive program for the long term.
+PROCTER & GAMBLE Co,PG,2018-08-07T16:19:22-04:00,THE P&G EXECUTIVE GROUP LIFE INSURANCE POLICY,Insurance policy for the executive group.
+PROCTER & GAMBLE Co,PG,2017-08-07T16:05:16-04:00,Gillette,Grooming and personal care products for men.
+JOHNSON & JOHNSON,JNJ,2025-02-13T16:07:39-05:00,[Novel Pharmaceutical Formulation],"[A new drug formulation designed to improve efficacy or patient compliance in a specific therapeutic area, addressing an unmet medical need.]"
+JOHNSON & JOHNSON,JNJ,2024-02-16T16:12:22-05:00,Reed 2023 RSU Grant Agreement,Agreement related to restricted stock units granted to John Reed in 2023.
+JOHNSON & JOHNSON,JNJ,2023-02-16T16:01:53-05:00,Pharmaceutical Preparations,Annual report for a company in the pharmaceutical preparations industry.
+JOHNSON & JOHNSON,JNJ,2022-02-17T16:06:50-05:00,Pharmaceutical Preparations,"Outlines the general activities of the company. Pharmaceutical preparations, as well as new developments in that area, are mentioned via the SIC code."
+JOHNSON & JOHNSON,JNJ,2021-02-22T16:36:14-05:00,Pharmaceutical Preparations,"Filing relates to pharmaceutical preparations, but does not contain explicit new product information."
+JOHNSON & JOHNSON,JNJ,2020-02-18T16:34:21-05:00,Pharmaceutical Preparations,Johnson & Johnson operates in the pharmaceutical preparations sector.
+JOHNSON & JOHNSON,JNJ,2018-02-21T16:49:20-05:00,[Unable to determine from provided text],[Unable to determine from provided text]
+JOHNSON & JOHNSON,JNJ,2017-02-27T16:52:48-05:00,Pharmaceutical Preparations,This is Johnson & Johnson's primary business as indicated by their SIC code.
+JOHNSON & JOHNSON,JNJ,2016-02-24T16:58:53-05:00,SECOND AMENDMENT,Unclear what this amendment is to. It is in reference to EXHIBIT 10.X.
+AbbVie Inc.,ABBV,2025-02-14T13:17:23-05:00,N/A,N/A
+AbbVie Inc.,ABBV,2023-02-17T12:54:29-05:00,Unspecified (Likely an existing product being advertised),"The filing includes many graphic files, implying visual marketing material for existing products. Without examining the actual graphic files, the specific product cannot be determined."
+AbbVie Inc.,ABBV,2021-02-19T14:05:43-05:00,Pharmaceutical Drug (unspecified),"Likely a new pharmaceutical drug, but no specific details are available in this document."
+AbbVie Inc.,ABBV,2020-02-21T10:51:26-05:00,Pharmaceutical Preparations,"AbbVie's main business activity, suggesting potential developments or advancements in this area."
+AbbVie Inc.,ABBV,2017-02-17T12:19:05-05:00,N/A,N/A
+AbbVie Inc.,ABBV,2016-02-19T12:32:59-05:00,Pharmaceutical Preparations,AbbVie's business involves developing and marketing pharmaceutical preparations. The 10-K filing likely contains details about existing and potentially new formulations.
+"HOME DEPOT, INC.",HD,2025-03-20T18:36:42-04:00,NextGen Xactive,"Could potentially refer to a new generation or version of an ""active"" product or service, perhaps related to building materials or home improvement technology."
+"HOME DEPOT, INC.",HD,2024-03-13T16:31:59-04:00,Roseborough Hemp,"Unable to determine the description of the product based on the provided information, but it may be related to hemp products."
+"HOME DEPOT, INC.",HD,2023-03-15T16:22:15-04:00,HD Supply Restoration,(Assuming this is a service) This could be a service focused on restoration and repair solutions offered through HD Supply.
+"HOME DEPOT, INC.",HD,2022-03-23T16:25:53-04:00,Eco-Options Paint Line,A new line of environmentally friendly paints with low VOC content and sustainable packaging.
+"HOME DEPOT, INC.",HD,2019-03-28T16:42:29-04:00,N/A,N/A
+"HOME DEPOT, INC.",HD,2016-03-24T16:05:36-04:00,Employment Arrangement,"Agreement between Marc D. Powers and The Home Depot, Inc."
+BANK OF AMERICA CORP /DE/,BAC,2021-02-24T16:56:31-05:00,Bank of America Corporate Center,"Address for Bank of America located in Charlotte, NC."
+BANK OF AMERICA CORP /DE/,BAC,2020-02-19T16:18:13-05:00,Interactive Data,XBRL taxonomy extension files detailing financial information.
+BANK OF AMERICA CORP /DE/,BAC,2018-02-22T16:10:05-05:00,Tradingvar,Image file named tradingvar.jpg; likely refers to a measure or model related to trading value at risk.
+BANK OF AMERICA CORP /DE/,BAC,2017-02-23T16:11:19-05:00,N/A,N/A
+BANK OF AMERICA CORP /DE/,BAC,2016-02-24T16:47:44-05:00,Managing Risk,Handling risk management.
+COCA COLA CO,KO,2025-02-20T15:17:12-05:00,Financial Report for Fiscal Year End 2024,"Coca-Cola's annual report detailing the company's financial performance, activities, and overall standing as of December 31, 2024."
+COCA COLA CO,KO,2024-02-20T13:21:24-05:00,Beverages,Beverage products that may be manufactured by the company.
+COCA COLA CO,KO,2021-02-25T13:47:17-05:00,N/A,N/A
+COCA COLA CO,KO,2020-02-24T16:08:17-05:00,Coca-Cola Energy,Energy drink variation of Coca-Cola.
+COCA COLA CO,KO,2019-02-21T16:55:42-05:00,N/A,N/A
+COCA COLA CO,KO,2017-02-24T11:34:47-05:00,*Potentially a New Beverage Product (Based on Image Files)*,"*Unable to determine specifics without image content. Possibly a new flavor, packaging, or formulation of an existing Coca-Cola product.*"
+"T-Mobile US, Inc.",TMUS,2025-01-31T16:04:31-05:00,Radiotelephone Communications,"T-Mobile US, Inc. operates in the Radiotelephone Communications industry, as indicated by SIC code 4812."
+"T-Mobile US, Inc.",TMUS,2024-02-02T16:07:53-05:00,5G Network Expansion/Service Improvements,Continued expansion and improvement of T-Mobile's 5G network infrastructure and related services to enhance coverage and performance.
+"T-Mobile US, Inc.",TMUS,2022-02-11T16:09:17-05:00,Radiotelephone Communications,"T-Mobile US, Inc. operates within the Radiotelephone Communications sector (SIC code 4812)."
+"T-Mobile US, Inc.",TMUS,2021-02-23T16:08:26-05:00,T-Mobile Home Internet Expansion,"Expanding 5G Home Internet service to new areas, offering more customers a high-speed alternative to traditional broadband."
+"T-Mobile US, Inc.",TMUS,2019-02-07T07:46:51-05:00,Agreements and Contracts,Listing of agreements and contracts as exhibits to the filing. This could allude to new business relationships and changes to the company.
+"T-Mobile US, Inc.",TMUS,2016-02-17T06:09:43-05:00,UN-CARRIER,T-Mobile's marketing campaign/philosophy focused on challenging traditional mobile carrier practices.
+CHEVRON CORP,CVX,2025-02-21T11:20:51-05:00,Unspecified Petroleum Products,"While not explicitly stated, Chevron's core business involves petroleum refining, suggesting potential updates/refinements to existing product lines."
+CHEVRON CORP,CVX,2024-02-26T16:07:14-05:00,Petroleum Refining,Chevron Corp. is in the business of petroleum refining.
+CHEVRON CORP,CVX,2023-02-23T11:51:02-05:00,Extracted XBRL Instance Document,"XML file containing instance data extracted from the 10-K filing, formatted for XBRL (eXtensible Business Reporting Language)."
+CHEVRON CORP,CVX,2021-02-25T14:32:29-05:00,Chevron's Continued Operations & Investments,"Focus on petroleum refining, exploration, and production, alongside investments in various projects as detailed in exhibits."
+CHEVRON CORP,CVX,2019-02-22T11:25:08-05:00,2018 Production,"Graphic showing 2018 production data, which might be highlighting increased production due to efficiency improvements or new technologies."
+CHEVRON CORP,CVX,2018-02-22T11:49:59-05:00,Refined Petroleum Products,Further refined methods of petroleum products that are made by Chevron.
+CHEVRON CORP,CVX,2017-02-23T12:18:42-05:00,Refining,Petroleum Refining.
+CHEVRON CORP,CVX,2016-02-25T12:08:14-05:00,[Advanced Refining Technology],[A new refining process that increases efficiency and reduces emissions in petroleum refining.]
+"Salesforce, Inc.",CRM,2025-03-05T16:16:48-05:00,Equity Award Agreement,Agreement for equity awards.
+"Salesforce, Inc.",CRM,2024-03-06T16:32:48-05:00,Clawback Policy,Outlines the policy regarding the recovery of incentive-based compensation under certain circumstances.
+"Salesforce, Inc.",CRM,2023-03-08T16:41:15-05:00,Prepackaged Software,Salesforce is in the business of providing prepackaged software.
+"Salesforce, Inc.",CRM,2022-02-24T16:13:45-05:00,Data Cloud,A cloud-based platform for managing and analyzing customer data.
+"Salesforce, Inc.",CRM,2020-03-05T16:29:57-05:00,Enhanced Cloud Services,Continued development and expansion of Salesforce's core cloud-based platform for customer relationship management and related business applications.
+"Salesforce, Inc.",CRM,2019-03-08T08:04:49-05:00,Salesforce Software Updates & Enhancements,"Ongoing improvements, updates, and new features added to existing Salesforce software products and services throughout the fiscal year."
+"CISCO SYSTEMS, INC.",CSCO,2024-09-05T16:41:20-04:00,Computer Communications Equipment,"Cisco designs, manufactures, and sells networking equipment based on computer communications."
+"CISCO SYSTEMS, INC.",CSCO,2023-09-07T16:30:09-04:00,[Next Generation Networking Solutions],"[Advanced hardware and software for secure, high-performance networking, enabling digital transformation for businesses and service providers.]"
+"CISCO SYSTEMS, INC.",CSCO,2022-09-08T16:47:54-04:00,Computer Communications Equipment,Not enough information to provide a description. The filing does not contain explicit details about specific new products.
+"CISCO SYSTEMS, INC.",CSCO,2020-09-03T17:05:55-04:00,2005 Stock Incentive Plan,Cisco Systems Inc. 2005 Stock Incentive Plan (including related form agreements)
+"CISCO SYSTEMS, INC.",CSCO,2019-09-05T17:17:18-04:00,N/A,N/A
+"CISCO SYSTEMS, INC.",CSCO,2018-09-06T17:14:48-04:00,CISCO SYSTEMS INC. 2005 STOCK INCENTIVE PLAN,"Details the stock incentive plan, which might be seen as a new offering to employees."
+"CISCO SYSTEMS, INC.",CSCO,2017-09-07T17:18:41-04:00,Computer Communications Equipment,Cisco's continued innovation and offerings in the field of computer networking and communications hardware.
+"CISCO SYSTEMS, INC.",CSCO,2016-09-08T17:12:13-04:00,CISCO SYSTEMS INC. 2005 STOCK INCENTIVE PLAN,"Equity plan offered to attract and retain employees, aligning their interests with company success via stock-based awards."
+"CISCO SYSTEMS, INC.",CSCO,2015-09-08T17:04:32-04:00,"CISCO SYSTEMS, INC. 2005 STOCK INCENTIVE PLAN",Stock incentive plan for employees (including related form agreements).
+Philip Morris International Inc.,PM,2024-02-08T07:10:55-05:00,iQOS,"Reduced-risk heated tobacco product, aiming to provide cigarette alternatives"
+Philip Morris International Inc.,PM,2020-02-07T06:47:13-05:00,N/A,N/A
+Philip Morris International Inc.,PM,2017-02-14T08:22:52-05:00,Cigarettes,Philip Morris International Inc. SIC code is 2111 which denotes cigarettes. The company may have new products within this familiar category.
+"Merck & Co., Inc.",MRK,2025-02-25T16:19:11-05:00,Executive Incentive Plan,Outlines the terms and conditions of the company's executive incentive plan.
+"Merck & Co., Inc.",MRK,2024-04-11T16:05:38-04:00,Pharmaceutical Preparations,"Unspecified pharmaceutical products, based on the company's SIC code (2834) which focuses on pharmaceutical preparations."
+"Merck & Co., Inc.",MRK,2024-02-26T16:06:55-05:00,U.S. Separation Benefits Plan,"A plan for separation benefits at Merck & Co., Inc. that was created in 2019"
+"Merck & Co., Inc.",MRK,2023-02-24T16:22:30-05:00,Executive Compensation Plans,"Focus on incentivizing performance and retention through Non-Qualified Stock Options (NQSOs), Restricted Stock Units (RSUs), and Performance Stock Units (PSUs)."
+"Merck & Co., Inc.",MRK,2022-02-25T16:44:28-05:00,2022 Annual NQSO (Non-Qualified Stock Option) Terms and Conditions,Terms and conditions related to non-qualified stock options granted in 2022.
+"Merck & Co., Inc.",MRK,2021-02-25T16:34:56-05:00,2024 Notes and 2036 Notes,Description of these notes
+"Merck & Co., Inc.",MRK,2020-02-26T16:36:07-05:00,Hypothetical - Novel Pharmaceutical,A new pharmaceutical preparation. (Hypothetical - based on SIC code).
+"Merck & Co., Inc.",MRK,2019-02-27T16:36:42-05:00,U.S. Separation Benefits Plan,"Merck & Co., Inc. U.S. Separation Benefits Plan (AS OF 1/1/19)"
+"Merck & Co., Inc.",MRK,2018-02-27T16:33:07-05:00,2018 Employee Stock Grant Program,New stock option and restricted stock unit grants under the 2010 Incentive Stock Plan (ISP) for employees in 2018.
+"Merck & Co., Inc.",MRK,2017-02-28T16:33:13-05:00,U.S. Separation Benefits Plan,"A plan detailing separation benefits for U.S. employees, effective January 1, 2017."
+INTERNATIONAL BUSINESS MACHINES CORP,IBM,2022-02-22T16:07:29-05:00,iXBRL,"Interactive data related to the 10-K filing, formatted in iXBRL (inline Extensible Business Reporting Language)."
+INTERNATIONAL BUSINESS MACHINES CORP,IBM,2021-02-23T17:08:23-05:00,[Unable to determine],[Unable to determine]
+INTERNATIONAL BUSINESS MACHINES CORP,IBM,2019-02-26T16:27:59-05:00,N/A,N/A
+INTERNATIONAL BUSINESS MACHINES CORP,IBM,2016-02-23T16:19:19-05:00,**IBM-20151231.xml**,"**Potentially structured financial reporting data in XML format, facilitating analysis and integration with other systems.**"
+WELLS FARGO & COMPANY/MN,WFC,2025-02-25T16:36:31-05:00,*Unable to determine from the provided text.*,*Unable to determine from the provided text.*
+WELLS FARGO & COMPANY/MN,WFC,2024-02-20T17:06:58-05:00,New banking/financial service,Annual financial report for shareholders/investors.
+WELLS FARGO & COMPANY/MN,WFC,2023-02-21T17:13:29-05:00,Financial Performance Analysis,"Annual report outlining Wells Fargo's financial performance for the fiscal year ending December 31, 2022."
+WELLS FARGO & COMPANY/MN,WFC,2021-02-23T16:58:04-05:00,Logo Refresh,New company logo (wflogo1.jpg) potentially indicating updated brand identity.
+WELLS FARGO & COMPANY/MN,WFC,2020-02-26T21:51:08-05:00,N/A,N/A
+WELLS FARGO & COMPANY/MN,WFC,2018-03-01T12:38:37-05:00,Market Risk Analysis,Analysis of market risk using various methods such as graphic representation of YoY market risk and daily value-at-risk metrics.
+WELLS FARGO & COMPANY/MN,WFC,2017-03-01T13:42:47-05:00,**XBRL Taxonomy Extension**,**Enhanced data reporting and analysis capabilities through the use of XBRL for regulatory filings.**
+ABBOTT LABORATORIES,ABT,2025-02-21T16:07:20-05:00,Abbott Laboratories Deferred Compensation Plan,Deferred compensation plan for employees. Information can be found in exhibit 10.2
+ABBOTT LABORATORIES,ABT,2021-02-19T16:10:04-05:00,2020 Form 10-K Filing and Exhibits,"Abbott Laboratories' annual report filing with exhibits detailing financial performance, agreements, and related information for the year 2020."
+ABBOTT LABORATORIES,ABT,2018-02-16T16:04:37-05:00,Pharmaceutical Preparations,Production and distribution of pharmaceutical products.
+ABBOTT LABORATORIES,ABT,2017-02-17T16:17:24-05:00,Hypothetical - Novel Drug Delivery System,"A new method for targeted drug delivery, potentially improving efficacy and reducing side effects."
+ABBOTT LABORATORIES,ABT,2016-02-19T15:48:41-05:00,Pharmaceutical Preparations,"Unclear, could be anything Abbott manufactures in the pharmaceutical space."
+LINDE PLC,LIN,2025-02-26T10:17:43-05:00,2024 Linde PLC Annual Report (10-K),"Comprehensive overview of Linde PLC's financial performance, activities, and future outlook for the year ending December 31, 2024."
+LINDE PLC,LIN,2024-02-28T09:56:28-05:00,Industrial Inorganic Chemicals,Linde PLC focuses on manufacturing and distributing industrial inorganic chemicals. The 10-K filing details the company's performance in this sector.
+LINDE PLC,LIN,2022-02-28T14:42:30-05:00,Industrial Gases,"Linde PLC is in the business of industrial inorganic chemicals, so it produces and sells gases like oxygen, nitrogen, argon, hydrogen, and carbon dioxide."
+LINDE PLC,LIN,2021-03-01T13:29:25-05:00,Undetermined (potentially related to content in GRAPHIC files),Unable to determine without examining associated graphic files.
+LINDE PLC,LIN,2020-03-02T15:19:05-05:00,Industrial Gas Solutions,"Unspecified, but likely related to industrial inorganic chemicals, gases, or related technologies. Could involve new gas mixtures, delivery systems, or applications."
+LINDE PLC,LIN,2019-03-18T12:53:02-04:00,Undetermined,Undetermined - Lacking specific details from the provided information.
+MCDONALDS CORP,MCD,2025-02-25T13:19:01-05:00,Potentially a new or modified menu item (Inferred).,"Could be a limited-time offering burger, snack, or beverage."
+MCDONALDS CORP,MCD,2023-02-24T12:34:36-05:00,New Food Menu Item,New offerings at McDonald's restaurants.
+MCDONALDS CORP,MCD,2022-02-24T16:19:08-05:00,(Likely) Promotional Graphics,Graphics used for promotion and marketing purposes.
+MCDONALDS CORP,MCD,2021-02-23T13:50:20-05:00,Not applicable,Not applicable
+MCDONALDS CORP,MCD,2019-02-22T09:48:25-05:00,CFO Certification,Section 302 certification of CFO
+MCDONALDS CORP,MCD,2018-02-23T12:45:01-05:00,Interactive Data,XBRL taxonomy extension schema and other documents related to financial data reporting.
+MCDONALDS CORP,MCD,2017-03-01T12:16:56-05:00,McDonalds Deferred Compensation Plan,A deferred compensation plan for employees.
+MCDONALDS CORP,MCD,2016-02-25T15:46:10-05:00,Unable to determine from provided text.,Unable to determine from provided text.
+GENERAL ELECTRIC CO,GE,2025-02-03T06:31:16-05:00,GE Aerospace (potentially new branding or increased focus),Focus on aerospace sector with incentive plans and executive retirement benefits.
+GENERAL ELECTRIC CO,GE,2024-02-02T06:31:30-05:00,Electrical Equipment Innovation,"GE continues to innovate within its core electrical equipment sector, developing and refining existing technologies for various applications."
+GENERAL ELECTRIC CO,GE,2023-02-10T08:32:52-05:00,GE Aerospace Supplement,"This appears to be a supplementary document related to GE's Aerospace business, potentially detailing specific offerings or developments within that sector."
+GENERAL ELECTRIC CO,GE,2021-02-12T10:24:28-05:00,Executive Retirement and Benefit Plans,"New retirement and benefit plans, or updates to existing plans, for General Electric executives (based on exhibits 10.K, 10.L, 10.N)."
+GENERAL ELECTRIC CO,GE,2020-02-24T16:34:07-05:00,Unclear - possibly related to agreements or performance metrics.,"Lacking specific details, this is based on exhibit titles related to agreements, executive compensation, or financial performance."
+GENERAL ELECTRIC CO,GE,2019-02-26T16:36:51-05:00,[Unable to determine],[Unable to determine]
+GENERAL ELECTRIC CO,GE,2016-02-26T16:06:12-05:00,Electronic & Other Electrical Equipment,Manufacturing and innovation of equipment in the electrical and electronic industries.
+PEPSICO INC,PEP,2025-02-03T18:22:47-05:00,PEPSICO AUTOMATIC RETIREMENT CONTRIBUTION EQUALIZATION PLAN,A plan to equalize automatic retirement contributions.
+PEPSICO INC,PEP,2024-02-08T17:58:51-05:00,PepsiCo International Retirement Plan Defined Benefit Program,"PepsiCo's retirement plan for international employees, offering defined benefits."
+PEPSICO INC,PEP,2023-02-08T18:06:37-05:00,PepsiCo International Retirement Plan,"Retirement plan for international employees, including defined benefit and contribution programs."
+PEPSICO INC,PEP,2022-02-09T18:03:39-05:00,PepsiCo International Retirement Plan Defined Contribution Program,Update to the PepsiCo International Retirement Plan Defined Contribution Program
+PEPSICO INC,PEP,2020-02-13T06:09:23-05:00,Assumed Beverage/Snack,Could be anything!
+PEPSICO INC,PEP,2019-02-15T16:23:02-05:00,Beverages,"The document refers to the company's SIC code as 2080 Beverages, so it is highly likely that any new products would be related to beverages."
+PEPSICO INC,PEP,2017-02-15T16:35:15-05:00,PepsiCo International Retirement Plans,Defined benefit and contribution programs for international employees.
+Palantir Technologies Inc.,PLTR,2025-02-18T06:06:00-05:00,Software Platform Update (Hypothetical),"Updates and improvements to Palantir's core data analytics platforms, focusing on enhanced features and capabilities."
+Palantir Technologies Inc.,PLTR,2024-02-20T06:15:02-05:00,2020 Equity Incentive Plan,"Information related to the company's 2020 Equity Incentive Plan, details of which are contained in the linked exhibits."
+Palantir Technologies Inc.,PLTR,2023-02-21T16:35:44-05:00,N/A,N/A
+Palantir Technologies Inc.,PLTR,2022-02-24T06:20:34-05:00,Palantir Technologies Inc. Business Operations,"Palantir Technologies Inc. operates from 1555 Blake Street, Suite 250, Denver, CO 80202. The phone number is 720-358-3679."
+Accenture plc,ACN,2022-10-12T17:04:46-04:00,ACCENTURE PLC 2010 EMPLOYEE SHARE PURCHASE PLAN FINANCIAL STATEMENTS,Financial statements related to Accenture's employee share purchase plan.
+Accenture plc,ACN,2020-10-22T16:28:48-04:00,Amended and Restated Accenture PLC 2010 Employee Share Purchase Plan Financials,Updates to the financial documents related to the employee share purchase plan.
+Accenture plc,ACN,2018-10-24T17:05:52-04:00,Amended and Restated Accenture plc 2010 Employee Share Purchase Plan,Amended and restated employee share purchase plan.
+Accenture plc,ACN,2016-10-28T17:05:52-04:00,Accenture Services,"Business Services, NEC"
+Accenture plc,ACN,2015-10-30T13:09:18-04:00,Accenture LLP Leadership Separation Benefits Plan,A plan detailing separation benefits for Accenture LLP leadership.
+THERMO FISHER SCIENTIFIC INC.,TMO,2025-02-20T13:33:52-05:00,[Advanced Measuring and Controlling Devices],"[Next-generation devices for industrial applications, enhancing precision and efficiency in measurement and control.]"
+THERMO FISHER SCIENTIFIC INC.,TMO,2023-02-23T12:54:52-05:00,Measuring and Controlling Devices,"Could involve new innovations or improvements in measuring and controlling devices, or a new service offering related to those devices."
+THERMO FISHER SCIENTIFIC INC.,TMO,2022-02-24T12:58:37-05:00,XBRL Taxonomy Extension,"Documentation relating to taxonomy extension schema, calculation, definition, label, and presentation."
+THERMO FISHER SCIENTIFIC INC.,TMO,2021-02-24T17:36:20-05:00,Measuring and Controlling Devices,New and improved measuring and controlling devices.
+THERMO FISHER SCIENTIFIC INC.,TMO,2020-02-26T15:33:51-05:00,*Potentially related to new Measuring and Controlling Devices*,*Incentive structure relating to Option and Share agreements for new product development*
+THERMO FISHER SCIENTIFIC INC.,TMO,2019-02-27T16:15:13-05:00,Measuring or Controlling Device,Undetermined new device or service related to measuring or controlling.
+THERMO FISHER SCIENTIFIC INC.,TMO,2018-02-28T09:19:05-05:00,N/A,N/A
+THERMO FISHER SCIENTIFIC INC.,TMO,2017-02-28T15:22:18-05:00,Measuring & Controlling Devices,"SIC code 3829 is listed for Thermo Fisher, suggesting they are involved in the business of measuring and controlling devices."
+THERMO FISHER SCIENTIFIC INC.,TMO,2016-02-25T14:24:54-05:00,Measuring & Controlling Devices,SIC description that suggests potential new product focus
+AT&T INC.,T,2025-02-12T17:23:52-05:00,"AT&T Fiber Investment, LLC",Entity for investing in and expanding AT&T's fiber optic infrastructure and services.
+AT&T INC.,T,2024-02-23T16:45:20-05:00,N/A,N/A
+AT&T INC.,T,2023-02-13T16:11:56-05:00,AT&T INC. BOARD OF DIRECTORS COMMUNICATIONS CONCESSION PROGRAM,A communications concession program for AT&T's Board of Directors.
+AT&T INC.,T,2021-02-25T16:19:43-05:00,AT&T 5G Expansion,Continued expansion and improvement of AT&T's 5G network infrastructure and services.
+AT&T INC.,T,2020-02-19T21:42:50-05:00,Telephone Communications,AT&T INC. provides telephone communication services.
+AT&T INC.,T,2019-02-20T17:21:51-05:00,[N/A or Unknown],[N/A or Unknown]
+AT&T INC.,T,2018-02-20T16:15:55-05:00,AT&T Health Plan,AT&T Health Plan as part of the 2017 Form 10-K filing.
+AT&T INC.,T,2017-02-17T17:30:12-05:00,AT&T 2016 Annual Report,Overview of AT&T's performance and activities during 2016.
+AT&T INC.,T,2016-02-18T16:33:12-05:00,AT&T 5G Expansion,Expansion of AT&T's 5G network coverage and service offerings.
+MORGAN STANLEY,MS,2023-02-24T16:05:43-05:00,Security Brokerage and Flotation Services,"Brokerage, dealing, and flotation services for various securities."
+MORGAN STANLEY,MS,2022-02-24T16:06:17-05:00,XBRL Taxonomy Extension,"Updates to the XBRL taxonomy for financial reporting, including schema, calculation, definition, label, and presentation linkbase documents."
+MORGAN STANLEY,MS,2020-02-27T16:34:27-05:00,Risk Management,Charts and data related to risk management strategies and performance.
+MORGAN STANLEY,MS,2018-02-27T16:09:47-05:00,XBRL Taxonomy Extension,"Taxonomy extension files (schema, calculation, definition, label, presentation) used for financial reporting in XBRL format."
+MORGAN STANLEY,MS,2017-02-27T17:05:04-05:00,"*Potentially a new financial instrument or service related to security brokerage, dealing, or flotation.*","*Could be related to the company's core business of financial services but with updated features, or a new investment strategy.*"
+AMERICAN EXPRESS CO,AXP,2025-02-07T14:10:04-05:00,Undetermined,No specific new product announcement could be extracted from the provided 8-K filing text.
+AMERICAN EXPRESS CO,AXP,2023-02-10T15:21:14-05:00,Undetermined,No specific new product announcement is found in the provided filing excerpt. This is an annual report.
+AMERICAN EXPRESS CO,AXP,2022-02-11T15:42:21-05:00,Undisclosed financial services/product updates.,"The 10K filing does not describe any new products from American Express. Therefore, no specific product is announced."
+AMERICAN EXPRESS CO,AXP,2018-02-16T16:54:58-05:00,Financial Services (General),"Annual financial report encompassing various financial services provided by American Express, as detailed in the 10-K filing."
+AMERICAN EXPRESS CO,AXP,2017-02-17T11:45:00-05:00,2016 Incentive Compensation Plan,Incentive compensation plan performance and portfolio grants for executives.
+AMERICAN EXPRESS CO,AXP,2016-02-19T14:36:25-05:00,Stock Option and Restricted Stock Unit Award Agreements,Agreements related to stock options and restricted stock units for executive officers.
+VERIZON COMMUNICATIONS INC,VZ,2025-02-12T10:19:07-05:00,Could be interpreted as services within Telephone Communications,"Verizon operates within the Telephone Communications sector (SIC code 4813), focusing on delivering communication services."
+VERIZON COMMUNICATIONS INC,VZ,2024-02-09T10:51:34-05:00,Verizon's Telecommunications Services,"Annual report regarding the state of Verizon's telecommunications services. Includes data, graphic, and relevant business information."
+VERIZON COMMUNICATIONS INC,VZ,2023-02-10T11:54:36-05:00,[New Telephone Communication Service],"[This could include enhanced network capabilities (e.g., 5G expansion), new calling plans, or bundled communication solutions for businesses or consumers.]"
+VERIZON COMMUNICATIONS INC,VZ,2019-02-15T13:42:40-05:00,Telephone Communications Services,"Telecommunications services including voice and data transmission, broadband, and wireless communication services."
+VERIZON COMMUNICATIONS INC,VZ,2018-02-23T13:15:54-05:00,Potentially a new telephone communication service or feature,Unable to provide description based on available context. More information might be found in EXHIBIT 13.
+Walt Disney Co,DIS,2024-11-14T06:46:46-05:00,The Walt Disney Company Clawback Policy,Policy regarding the recovery of incentive-based compensation under certain circumstances.
+Walt Disney Co,DIS,2024-01-24T17:00:30-05:00,Undisclosed Disney Offering,"Based on the graphic files, it could be related to new entertainment content, theme park features, or consumer products, all unconfirmed."
+Walt Disney Co,DIS,2023-11-21T17:04:04-05:00,Disney+ Content Expansion,"Potential new shows, movies, and content offerings on Disney's streaming platform, Disney+. (Implied from overall company strategy)"
+Walt Disney Co,DIS,2023-01-24T16:15:45-05:00,**Amusement and Recreation Services**,"This filing relates to Walt Disney Co's annual report, encompassing various amusement and recreation services, as indicated by the SIC code 7990."
+Walt Disney Co,DIS,2022-11-29T17:03:15-05:00,Subsidiaries of The Walt Disney Company,List of the company's subsidiary entities as of the report date. This may indirectly point to areas of focus or new ventures.
+Walt Disney Co,DIS,2021-11-24T16:34:25-05:00,[New Entertainment Experiences],"[Could include new theme park attractions, streaming content (shows/movies), or interactive experiences within Disney's ecosystem.]"
+Blackstone Inc.,BX,2025-02-28T16:06:07-05:00,XBRL Taxonomy Extension,Extension schema for financial reporting to meet regulatory requirements.
+Blackstone Inc.,BX,2024-02-23T16:03:15-05:00,Investment Advice,Blackstone Inc. provides investment advice as indicated by SIC code 6282. It could include new strategies or funds.
+Blackstone Inc.,BX,2020-02-28T17:00:08-05:00,Investment Advice,Blackstone Group Inc is in the Investment Advice industry as defined by SIC code 6282.
+Blackstone Inc.,BX,2019-03-01T16:21:20-05:00,Investment Advice,"Providing investment advice, as indicated by the SIC code 6282 for Blackstone Group L.P."
+Blackstone Inc.,BX,2018-03-01T16:03:33-05:00,Investment Advice,Blackstone provides investment advice as part of its services.
+RTX Corp,RTX,2025-02-03T17:21:23-05:00,Aircraft Engines & Engine Parts,RTX Corp is in the business of Aircraft Engines & Engine Parts
+RTX Corp,RTX,2023-02-06T17:32:52-05:00,Aircraft Engine/Parts Technology,"Unspecified advancements or developments in aircraft engine or related parts technology, as reported within the broader scope of the annual report."
+RTX Corp,RTX,2021-02-08T17:07:52-05:00,[Advanced Aircraft Engine Technology],[Likely pertains to improvements or new developments in aircraft engine components or systems based on EX-31 file names.]
+RTX Corp,RTX,2020-02-06T06:55:54-05:00,Aircraft Engines or Engine Parts,"Undetermined, but likely related to aircraft propulsion systems or components."
+RTX Corp,RTX,2019-04-05T17:16:44-04:00,Aircraft Engine Part,"Filing corresponds to RTX Corp's annual report amendment for Aircraft Engines & Engine Parts, though no specific new product is explicitly detailed."
+RTX Corp,RTX,2018-02-08T19:27:18-05:00,UTCS 2017 Annual Report,An annual report to shareowners that *may* contain information about new products and services from United Technologies Corp (UTCS) during the year.
+RTX Corp,RTX,2017-02-09T06:31:46-05:00,UTCS 2016 Annual Report to Shareowners,"Annual report providing information on the company's performance for the year ended December 31, 2016."
+INTUITIVE SURGICAL INC,ISRG,2025-01-31T17:20:49-05:00,da Vinci Surgical System (Implied),"This 10-K filing by Intuitive Surgical, a company specializing in robotic-assisted surgical systems, suggests continued development and market presence of their da Vinci system."
+INTUITIVE SURGICAL INC,ISRG,2023-02-10T17:11:19-05:00,FY23 PSU Agreement,Agreement regarding performance stock units for fiscal year 2023.
+INTUITIVE SURGICAL INC,ISRG,2022-02-03T16:59:03-05:00,Surgical Appliances & Supplies,"Annual report for a company that specializes in orthopedic, prosthetic & surgical appliances & supplies."
+INTUITIVE SURGICAL INC,ISRG,2021-02-09T21:47:57-05:00,Next generation da Vinci Surgical System (Speculative),"Improved robotic surgical platform, possibly with enhanced precision and capabilities. (Speculative)"
+INTUITIVE SURGICAL INC,ISRG,2020-02-07T17:18:28-05:00,da Vinci X Surgical System,"A next-generation robotic surgical system offering advanced visualization, precision, and enhanced surgical capabilities."
+INTUITIVE SURGICAL INC,ISRG,2019-02-04T17:27:54-05:00,Surgical Appliances & Supplies,"Orthopedic, Prosthetic & Surgical Appliances & Supplies"
+INTUITIVE SURGICAL INC,ISRG,2017-02-03T18:05:19-05:00,"Orthopedic, Prosthetic & Surgical Appliances & Supplies","Broad category of products Intuitive Surgical is involved with, filed under SIC code 3842."
+INTUITIVE SURGICAL INC,ISRG,2016-02-02T17:22:41-05:00,da Vinci Xi Surgical System Enhancement,"Update to the da Vinci Xi, offering improved precision and new instrument compatibility for complex surgical procedures."
+"ServiceNow, Inc.",NOW,2025-01-29T21:49:31-05:00,*Hypothetically* Enhanced ServiceNow Platform,*Hypothetically* New features and capabilities added to the core ServiceNow platform for improved workflow automation and digital transformation.
+"ServiceNow, Inc.",NOW,2024-01-25T16:59:25-05:00,Unable to determine from text.,Unable to determine from text.
+"ServiceNow, Inc.",NOW,2021-02-11T19:17:55-05:00,"now-20201231_g1.jpg, now-20201231_g2.jpg, now-20201231_g3.gif",GRAPHIC (This would need further document inspection to determine what the graphics are and if they relate to a product).
+"ServiceNow, Inc.",NOW,2020-02-20T07:38:20-05:00,XBRL Taxonomy Extension,"Documents related to XBRL (Extensible Business Reporting Language) taxonomy, including schema, calculation, definition, label, and presentation linkbases."
+"ServiceNow, Inc.",NOW,2018-02-28T17:25:56-05:00,*Potentially related to Prepackaged Software*,"*As ServiceNow is in the prepackaged software business, updates to their software packages are likely discussed within the full 10-K document.*"
+"ServiceNow, Inc.",NOW,2017-02-28T16:57:49-05:00,Prepackaged Software,"ServiceNow, Inc. is in the business of providing services related to prepackaged software."
+QUALCOMM INC/DE,QCOM,2023-11-01T16:10:50-04:00,Radio & TV Broadcasting & Communications Equipment,"Equipment related to radio, television broadcasting, and communications."
+QUALCOMM INC/DE,QCOM,2022-11-02T16:04:10-04:00,5G Radio & TV Broadcasting & Communications Equipment,New iteration of 5G communications equipment for radio and television broadcasting.
+QUALCOMM INC/DE,QCOM,2021-11-03T16:06:41-04:00,Radio & TV Broadcasting & Communications Equipment,Qualcomm develops and sells wireless telecommunications products and services.
+QUALCOMM INC/DE,QCOM,2020-11-04T17:19:44-05:00,N/A,N/A
+QUALCOMM INC/DE,QCOM,2019-11-06T16:08:43-05:00,Snapdragon Processors (Based on general knowledge of Qualcomm's business),Mobile processors for smartphones and other devices.
+QUALCOMM INC/DE,QCOM,2018-11-07T16:15:48-05:00,Strategic Company Initiatives (Unspecified),Focus on executive performance linked to strategic goals which *may* include new product development or market expansion.
+QUALCOMM INC/DE,QCOM,2017-11-01T16:10:14-04:00,[Unable to determine from provided text],[Unable to determine from provided text]
+QUALCOMM INC/DE,QCOM,2016-11-02T16:11:53-04:00,Radio & Tv Broadcasting & Communications Equipment,Qualcomm is in the business of Radio & TV Broadcasting & Communications Equipment.
+QUALCOMM INC/DE,QCOM,2015-11-04T16:26:47-05:00,Radio & TV Broadcasting & Communications Equipment,Equipment related to radio and television broadcasting and communications.
+GOLDMAN SACHS GROUP INC,GS,2025-02-27T08:50:25-05:00,XBRL Taxonomy Extension,This is the data definition file for how Goldman Sachs reports their financial information.
+GOLDMAN SACHS GROUP INC,GS,2024-02-22T20:39:25-05:00,New or modified employee compensation and benefits plans,"Exhibits 10.31 through 10.47 detail various forms of non-employee director compensation, year-end restricted stock units (RSUs), fixed allowances, and performance-related compensation."
+GOLDMAN SACHS GROUP INC,GS,2023-02-23T19:58:16-05:00,Form of Non-Employee Director Restricted Stock Unit Agreement,A new form of agreement for non-employee directors to receive restricted stock units.
+GOLDMAN SACHS GROUP INC,GS,2022-02-24T21:09:11-05:00,Potentially new financial instruments or strategies,"The filing contains exhibits related to various agreements and financial reporting data, possibly indicating new or updated financial instruments/strategies used by Goldman Sachs."
+GOLDMAN SACHS GROUP INC,GS,2021-02-19T21:16:45-05:00,**Not applicable**,"**Filing does not contain new product announcements, as it is an annual report.**"
+GOLDMAN SACHS GROUP INC,GS,2019-02-25T19:51:24-05:00,XBRL Taxonomy Extension,"Extension of XBRL taxonomy for financial reporting, encompassing schema, calculation, definition, label, and presentation linkbases."
+AMGEN INC,AMGN,2025-02-14T16:18:41-05:00,N/A,N/A
+AMGEN INC,AMGN,2024-02-14T16:23:32-05:00,Collaboration with Celltech R&D Limited,"Collaboration and license agreement with Celltech R&D Limited, potentially related to a new product or technology."
+AMGEN INC,AMGN,2023-02-09T16:26:31-05:00,AMENDMENT NO. 1 TO THE CREDIT AGREEMENT,Amendment to existing credit agreement (EX-10.16 1)
+AMGEN INC,AMGN,2022-02-16T16:39:53-05:00,Product of the AstraZeneca Collaboration,Could potentially relate to a product being developed or modified under the AstraZeneca collaboration agreement.
+AMGEN INC,AMGN,2021-02-08T19:24:56-05:00,"[Unclear, potentially related to AMGEN/ASTRAZENECA collaboration]","[Potentially related to an existing or in-development product resulting from the AMGEN/ASTRAZENECA collaboration, subject to Amendment No. 7.]"
+AMGEN INC,AMGN,2020-02-13T13:51:00-05:00,Biological Products,"Amgen Inc. specializes in biological products, potentially including new formulations or advancements in existing therapies."
+AMGEN INC,AMGN,2020-02-12T17:15:19-05:00,Treatment of Certain Product Inventory,Letter Agreement regarding treatment of product inventory with Celgene.
+AMGEN INC,AMGN,2018-02-13T16:48:04-05:00,"[Potential - Based on file names, which could be completely unrelated to a product] Performance Award Program","[Potential - Based on file names, which could be completely unrelated to a product] Based on exhibit name, could be related to employee performance, not a directly sold product."
+AMGEN INC,AMGN,2017-02-14T16:21:05-05:00,Amendment NO. 2 to Collaboration and License Agreement,Amendment to a pre-existing agreement.
+PROGRESSIVE CORP/OH/,PGR,2024-02-26T10:46:54-05:00,Insurance Policies,"Fire, Marine & Casualty Insurance (based on SIC code 6331)."
+PROGRESSIVE CORP/OH/,PGR,2021-03-01T10:23:49-05:00,Insurance Policies (General),Annual Report Filing - Standard Policies and Underwriting.
+PROGRESSIVE CORP/OH/,PGR,2019-02-27T08:23:22-05:00,"Unknown. Possibly related to ""personalautographa01.jpg""",Unable to determine a product description from the provided text.
+PROGRESSIVE CORP/OH/,PGR,2018-02-27T16:46:52-05:00,Insurance Policy Updates/Enhancements,"Unclear, but potentially new features or modifications to existing insurance products (auto, home, etc.) to better serve customer needs."
+PROGRESSIVE CORP/OH/,PGR,2017-03-01T11:59:52-05:00,Annual Report,Annual financial and operational overview of Progressive Corp for the year 2016.
+ADOBE INC.,ADBE,2025-01-13T16:02:17-05:00,Prepackaged Software,Adobe provides prepackaged software (based on SIC code).
+ADOBE INC.,ADBE,2024-01-16T20:01:55-05:00,Adobe AI Services,AI services that will likely be integrated across Adobe's existing product lines.
+ADOBE INC.,ADBE,2023-01-17T16:34:00-05:00,Prepackaged Software,Adobe is in the business of prepackaged software.
+ADOBE INC.,ADBE,2022-01-21T16:03:34-05:00,"Unclear, potentially related to software or services.","This document is the company's 10-K filing, so any new product would be embedded within this filing."
+ADOBE INC.,ADBE,2021-01-15T16:03:42-05:00,N/A,N/A
+ADOBE INC.,ADBE,2020-01-21T06:06:41-05:00,Interactive Data,"XBRL taxonomy extension schema & linkbase documents, extracted XBRL instance document."
+ADOBE INC.,ADBE,2019-01-25T06:24:29-05:00,Adobe Enhanced Design Features,Update to design products introducing enhancements for UI/UX and graphic design workflows.
+INTUIT INC.,INTU,2024-09-04T18:26:27-04:00,AI-Powered Financial Insights,Enhanced financial insights for small businesses using AI to predict cash flow and optimize financial decisions.
+INTUIT INC.,INTU,2023-09-01T16:08:03-04:00,Prepackaged Software,Intuit is in the business of providing prepackaged software and related services.
+INTUIT INC.,INTU,2022-09-02T17:09:05-04:00,Intuit's FY22 Financial Reporting,"Annual report (10-K) detailing Intuit's performance, financial standing, and business activities for the fiscal year ending July 31, 2022."
+INTUIT INC.,INTU,2021-09-08T16:09:57-04:00,Prepackaged Software Services,"Software provided as a service, potentially encompassing new features, updates, or entirely new software offerings within Intuit's existing product lines (TurboTax, QuickBooks, etc.)."
+INTUIT INC.,INTU,2020-08-31T16:31:44-04:00,ProConnect A21,Logo suggests an updated version of ProConnect.
+INTUIT INC.,INTU,2019-08-30T16:30:04-04:00,QuickBooks,Accounting software for small businesses and the self-employed.
+INTUIT INC.,INTU,2018-08-31T17:05:17-04:00,ProConnect,Professional tax preparation.
+INTUIT INC.,INTU,2017-09-01T16:13:14-04:00,ProConnect,A professional tax preparation software.
+INTUIT INC.,INTU,2016-09-01T16:23:59-04:00,Intuit Software Updates,"Annual report for Intuit, possibly containing updates and new features for existing software like QuickBooks, TurboTax, and Mint."
+INTUIT INC.,INTU,2015-09-01T16:06:33-04:00,"*Potentially updates or new features to existing software products like QuickBooks, TurboTax, or Mint.*","*The 10-K filing likely discusses improvements, updates, or new feature additions to Intuit's existing software suite to enhance user experience and functionality.*"
+ADVANCED MICRO DEVICES INC,AMD,2024-01-31T17:16:39-05:00,AMD x Broadcom Core License Agreement,Core licensing agreement between AMD and Broadcom.
+ADVANCED MICRO DEVICES INC,AMD,2023-02-27T16:20:39-05:00,N/A,N/A
+ADVANCED MICRO DEVICES INC,AMD,2022-02-03T17:22:50-05:00,Semiconductors & Related Devices,AMD's business and revenue generating semiconductors.
+ADVANCED MICRO DEVICES INC,AMD,2021-01-29T17:24:00-05:00,Undetermined (Likely a Semiconductor Device),"Possibly related to semiconductors, as indicated by SIC code 3674 (Semiconductors & Related Devices). Further details might be in the linked exhibits."
+ADVANCED MICRO DEVICES INC,AMD,2020-02-04T17:21:47-05:00,Undisclosed Semiconductor Product,New semiconductor product offering as part of annual operations. More details may be available within the full 10-K report.
+ADVANCED MICRO DEVICES INC,AMD,2019-02-08T16:44:26-05:00,N/A,N/A
+TEXAS INSTRUMENTS INC,TXN,2025-02-14T14:33:58-05:00,[Hypothetical] New Semiconductor Device,[Hypothetical] Undisclosed advanced semiconductor for enhanced processing power and efficiency. More information to come later.
+TEXAS INSTRUMENTS INC,TXN,2023-02-03T11:07:12-05:00,Semiconductor Device,Undetermined new semiconductor or related device product as part of their ongoing R&D and product development in the semiconductor industry.
+TEXAS INSTRUMENTS INC,TXN,2021-02-05T16:26:50-05:00,Semiconductor Devices,Texas Instruments' core product line; semiconductors and related devices.
+TEXAS INSTRUMENTS INC,TXN,2018-02-22T13:58:19-05:00,Semiconductors & Related Devices,The company manufactures semiconductors and related devices. The filing provides financial details and performance for this product area.
+TEXAS INSTRUMENTS INC,TXN,2016-02-24T10:31:05-05:00,Semiconductors & Related Devices,"Could include new chipsets, microcontrollers, or other semiconductor technologies."
+CATERPILLAR INC,CAT,2024-02-16T10:05:13-05:00,Construction Equipment (Hypothetical),"Caterpillar could be releasing new models of construction equipment, or construction technology."
+CATERPILLAR INC,CAT,2023-02-15T10:27:56-05:00,Stock Performance Tracking/Analysis,Updated financial performance charts and related analysis tools for investors.
+CATERPILLAR INC,CAT,2022-02-16T10:50:47-05:00,SOLAR EFSE AMEND,"Unclear, potentially related to amendments to existing solar energy financial service (EFSE) agreements."
+CATERPILLAR INC,CAT,2021-02-17T10:41:38-05:00,Construction Equipment,"Undefined new construction equipment product, as Caterpillar is in the business of producing equipment of this variety."
+CATERPILLAR INC,CAT,2020-02-19T14:12:34-05:00,Consolidated Sales and Profit Analysis,Caterpillar provides analysis of their sales and profit numbers on a quarterly and yearly basis.
+CATERPILLAR INC,CAT,2019-02-14T13:25:13-05:00,RSU Award Notice,Notice regarding Restricted Stock Unit awards.
+CATERPILLAR INC,CAT,2018-02-15T12:14:45-05:00,Construction Machinery & Equip,Caterpillar Inc. focuses on manufacturing construction machinery and equipment.
+CATERPILLAR INC,CAT,2017-02-15T13:45:35-05:00,Construction Machinery & Equipment,"Focus on sales, revenue, and profit related to construction machinery and equipment."
+CATERPILLAR INC,CAT,2016-02-16T11:20:14-05:00,[Potentially] Updated Construction Equipment Line,"[Potentially] Improved performance and efficiency in Caterpillar's construction equipment offerings. (Note: This is a speculative guess based on the file names like ""2015performancegraph.jpg"")"
+"Uber Technologies, Inc",UBER,2024-02-15T16:30:29-05:00,Services-Business Services,"Uber Technologies, Inc. is classified under SIC code 7389: Services-Business Services, NEC (Not Elsewhere Classified) which could mean focus on new areas."
+"Uber Technologies, Inc",UBER,2023-02-21T16:10:08-05:00,Mailing and Business Address,1515 3RD STREET SAN FRANCISCO CA 94158
+"Uber Technologies, Inc",UBER,2021-03-01T08:06:48-05:00,"Undetermined (Likely relating to services provided under SIC code 7389: Services-Business Services, NEC)","This is a 10-K filing, so there is no new product announcement, but the company is related to business services."
+"Uber Technologies, Inc",UBER,2020-03-02T16:12:35-05:00,Trips,Unable to determine the exact details as there is no explicit mention of product characteristics or specific descriptions.
+S&P Global Inc.,SPGI,2025-02-11T17:29:21-05:00,Credit Rating and Risk Assessment Services,"Services providing credit ratings, risk assessments, and data analytics for financial markets and various industries."
+S&P Global Inc.,SPGI,2024-02-08T21:12:29-05:00,S&P Global Ratings Services,Consumer Credit Reporting. This is based on the SIC code of the business.
+S&P Global Inc.,SPGI,2022-02-08T17:17:01-05:00,XBRL Taxonomy Extension,"A standardized, machine-readable format (XML) for financial reporting to improve data quality and accessibility for investors."
+S&P Global Inc.,SPGI,2020-02-10T17:30:11-05:00,"Services-Consumer Credit Reporting, Collection Agencies",SIC code 7320 indicates S&P Global is involved in consumer credit reporting and collection agencies.
+S&P Global Inc.,SPGI,2019-02-12T18:15:22-05:00,Data and Analytics,S&P Global provides services in financial information and analytics.
+S&P Global Inc.,SPGI,2018-02-09T16:40:54-05:00,"[Unclear, potentially a new data or analytics service]","[Undetermined, possibly related to financial data analysis or credit risk assessment.]"
+S&P Global Inc.,SPGI,2017-02-09T08:45:42-05:00,S&P Global Credit Ratings,Provides credit ratings and research to investors.
+S&P Global Inc.,SPGI,2016-02-11T18:16:14-05:00,Senior Notes,"Forms of senior notes due in 2018 (2.500%), 2020 (3.300%), 2025 (4.000%), and 2026 (4.400%)."
+DANAHER CORP /DE/,DHR,2024-02-21T16:38:09-05:00,*Hypothetical* New Industrial Measurement Instrument,"*Hypothetical* Advanced industrial instrument for measurement, display and control, potentially incorporating new sensor technology."
+DANAHER CORP /DE/,DHR,2023-02-22T16:40:48-05:00,Omnibus Incentive Plan,"Equity awards, including stock options, stock appreciation rights, restricted stock, restricted stock units, and performance shares/units, may be granted under the Plan."
+DANAHER CORP /DE/,DHR,2021-02-24T19:13:25-05:00,Industrial Instruments,"Instruments for Measurement, Display, and Control"
+DANAHER CORP /DE/,DHR,2020-02-21T07:32:05-05:00,Industrial Instruments,"Instruments for measurement, display, and control for industrial applications."
+DANAHER CORP /DE/,DHR,2018-02-20T18:34:14-05:00,Industrial Measurement and Control Instruments,"Improvements or new models in Danaher's existing line of industrial measurement, display, and control instruments."
+NEXTERA ENERGY INC,NEE,2025-02-14T14:23:43-05:00,**Expansion of Renewable Energy Initiatives**,"**Focus on renewable energy projects, including solar and wind power generation, is referenced through graphics and financial data presented in the report.**"
+NEXTERA ENERGY INC,NEE,2023-02-17T16:25:38-05:00,Energy Storage Solutions,NextEra Energy is likely expanding its energy storage portfolio with advanced battery technologies and grid-scale solutions.
+NEXTERA ENERGY INC,NEE,2022-02-18T06:28:58-05:00,N/A,N/A
+NEXTERA ENERGY INC,NEE,2020-02-14T15:24:19-05:00,Renewable Energy Generation,"NextEra Energy focuses on electricity generation, particularly through renewable sources. The filing contains exhibits related to net generation capacity."
+NEXTERA ENERGY INC,NEE,2019-02-15T17:22:00-05:00,Generating Facilities,NextEra Energy operates various generating facilities.
+NEXTERA ENERGY INC,NEE,2017-02-23T15:57:53-05:00,Electric Services,"Generation, transmission, distribution, and sale of electric energy."
+NEXTERA ENERGY INC,NEE,2016-02-19T17:37:18-05:00,**Expansion of Generation Facilities**,"*The inclusion of ""neergenerationfacilities2015.jpg"" as a graphic suggests potential expansion or upgrades to NextEra Energy's generation facilities.*"
+PFIZER INC,PFE,2022-02-24T14:25:01-05:00,*Potentially mentioned within the full 10-K report for the period ending 2021-12-31*,*A product or service discussed within Pfizer's 2021 annual report.*
+PFIZER INC,PFE,2020-02-27T14:15:12-05:00,Pfizer's 2020 Product Pipeline,"Overview of Pfizer's drug development programs and potential new products for the year 2020. (Based on ""pfizerpipeline2020a02.jpg"" graphic)."
+PFIZER INC,PFE,2019-02-28T14:35:32-05:00,"Pfizer Product Pipeline (as of January 29, 2019)","Update on Pfizer's portfolio of drug candidates and ongoing research programs; likely includes new formulations, indications, and therapeutic areas."
+PFIZER INC,PFE,2018-02-22T15:42:15-05:00,Pfizer Pipeline,"Graphic showing the pipeline of products in development (based on filename ""pfizerpipeline01301801.jpg"")"
+PFIZER INC,PFE,2017-02-23T16:30:32-05:00,"Pfizer Pipeline Update (January 31, 2017)","Update on Pfizer's drug development pipeline, potentially including information on new or ongoing clinical trials and drug candidates."
+PFIZER INC,PFE,2016-02-29T17:26:35-05:00,Research & Development Pipeline,Graphic showing Pfizer's research and development pipeline.
+Booking Holdings Inc.,BKNG,2025-02-20T17:12:27-05:00,Enhanced Transportation Services,Upgrades/changes/or additions to existing transportation services to increase user experience.
+Booking Holdings Inc.,BKNG,2024-02-22T17:21:32-05:00,Transportation Services,Services associated with transportation (SIC code: 4700).
+Booking Holdings Inc.,BKNG,2022-02-23T17:19:51-05:00,N/A,N/A
+Booking Holdings Inc.,BKNG,2019-02-27T17:10:04-05:00,Platform Enhancements/Updates,Ongoing improvements and new features to existing travel booking platforms to improve user experience and functionality.
+Booking Holdings Inc.,BKNG,2018-02-27T17:17:39-05:00,N/A,N/A
+Booking Holdings Inc.,BKNG,2017-02-27T17:18:18-05:00,Undisclosed Travel Service,Potentially a new feature or update to an existing travel service offered by Booking Holdings Inc.
+Booking Holdings Inc.,BKNG,2016-02-17T08:32:42-05:00,Enhanced Travel Booking Platform Features,"Improvements to the booking platform, potentially including new search filters, personalized recommendations, or expanded inventory of travel options."
+BOSTON SCIENTIFIC CORP,BSX,2025-02-18T16:13:39-05:00,2024 Annual Bonus,Exhibit relating to the 2024 annual bonus.
+BOSTON SCIENTIFIC CORP,BSX,2024-02-20T16:23:27-05:00,Surgical & Medical Instruments & Apparatus,The company operates within the Surgical & Medical Instruments & Apparatus industry (SIC code 3841).
+BOSTON SCIENTIFIC CORP,BSX,2023-02-23T16:20:14-05:00,Surgical & Medical Instruments & Apparatus,"The company SIC code is 3841 which encompasses Surgical & Medical Instruments & Apparatus. This is a 10-K annual report, so it is likely this SIC code will be used moving forward."
+BOSTON SCIENTIFIC CORP,BSX,2022-02-23T16:34:25-05:00,Next-Generation Medical Device,Boston Scientific likely introduced or developed advancements in their surgical and medical instruments & apparatus during 2021.
+BOSTON SCIENTIFIC CORP,BSX,2018-02-20T06:20:01-05:00,Surgical & Medical Instruments & Apparatus,Boston Scientific likely developed or enhanced surgical and medical instruments & apparatus during the reporting period. Details not available in this excerpt.
+BOSTON SCIENTIFIC CORP,BSX,2017-03-17T16:04:39-04:00,Surgical & Medical Instruments & Apparatus,This filing relates to Boston Scientific's business in Surgical & Medical Instruments & Apparatus.
+UNION PACIFIC CORP,UNP,2025-02-07T12:12:07-05:00,"Railroads, Line-Haul Operating",Transportation services via railway.
+UNION PACIFIC CORP,UNP,2024-02-09T13:56:24-05:00,Premium Services,Unable to determine a description from this document. More information is needed from the actual 10-K filing document.
+UNION PACIFIC CORP,UNP,2021-02-05T16:35:25-05:00,Rail Transportation Services,"Transportation of goods via rail. Union Pacific is a major railroad operator, their main service is freight transport."
+UNION PACIFIC CORP,UNP,2019-02-08T14:28:23-05:00,Railroad Transportation Services,Transportation of goods and materials via rail lines. This includes freight and other transport offerings.
+UNION PACIFIC CORP,UNP,2017-02-03T16:13:15-05:00,Enhanced Rail Transportation Solutions,Visual content within the report potentially highlights improvements to existing rail services or infrastructure.
+STRYKER CORP,SYK,2025-02-12T11:47:17-05:00,"2025 Stock Option Award, 2025 RSU Award Letter, 2025 PSU Award Letter, 2025 Non-ERSU Award Letter","Exhibits related to stock option and restricted stock unit awards for 2025, which could signal new compensation strategies."
+STRYKER CORP,SYK,2023-02-10T16:18:01-05:00,2023 NQ Stock Option Award,Stock option awards granted in 2023.
+STRYKER CORP,SYK,2022-02-11T13:02:17-05:00,Surgical & Medical Instruments & Apparatus,"Exhibits from the annual report including financial statements, legal documents and stock option details."
+STRYKER CORP,SYK,2018-02-08T16:54:05-05:00,Surgical & Medical Instruments & Apparatus,Stryker Corp (SYK) is in the business of Surgical & Medical Instruments & Apparatus.
+SCHWAB CHARLES CORP,SCHW,2025-02-26T16:25:18-05:00,Unknown (Details likely in exhibit schw-20241231_g1.jpg),Unable to determine from provided text.
+SCHWAB CHARLES CORP,SCHW,2024-02-23T16:21:25-05:00,iXBRL data,Interactive data format included in the filing for financial reporting.
+SCHWAB CHARLES CORP,SCHW,2017-02-23T17:22:58-05:00,Interactive Data,"Data files including EX-101.INS, EX-101.SCH, EX-101.CAL, EX-101.DEF, EX-101.LAB, EX-101.PRE which are XML files used for financial reporting."
+SCHWAB CHARLES CORP,SCHW,2016-02-24T17:17:09-05:00,Brokerage and investment services,Schwab provides brokerage and investment services. The 10-K outlines the company's performance and activities in offering these services.
+"GILEAD SCIENCES, INC.",GILD,2025-02-28T16:21:03-05:00,[Hypothetical] Novel Antiviral Therapy,"[Hypothetical] A new antiviral treatment targeting a specific viral infection, potentially HIV or hepatitis."
+"GILEAD SCIENCES, INC.",GILD,2023-02-22T16:18:52-05:00,Not Applicable,Not Applicable
+"GILEAD SCIENCES, INC.",GILD,2022-02-23T16:55:27-05:00,Subsidiaries,Listing of Subsidiaries (EX-21.1) - This exhibit details the company's subsidiary structure.
+"GILEAD SCIENCES, INC.",GILD,2019-04-17T20:26:39-04:00,MASTER AGREEMENT BY AND BETWEEN REGISTRANT AND JAPAN TOBACCO INC,"Master Agreement between Gilead Sciences and Japan Tobacco Inc, purpose undefined."
+"GILEAD SCIENCES, INC.",GILD,2019-02-25T20:02:58-05:00,Master Agreement with Japan Tobacco Inc.,Unclear what this agreement directly relates to without further context. It could relate to a product Gilead is developing/marketing.
+"GILEAD SCIENCES, INC.",GILD,2018-02-26T17:57:33-05:00,Biological Products,"Gilead Sciences, Inc. focuses on discovering, developing, and commercializing innovative medicines."
+HONEYWELL INTERNATIONAL INC,HON,2025-02-14T14:50:25-05:00,Undetermined (Potentially related to graphics files within the 10-K),"Visual information unavailable, potentially showcasing new products or technological advancements within Honeywell's portfolio (assuming related to Aircraft Engines & Engine Parts)."
+HONEYWELL INTERNATIONAL INC,HON,2024-02-16T13:40:36-05:00,[Hypothetical] Honeywell HTF1200G Engine,"[Hypothetical] Advanced turbofan engine for next-generation regional jets, offering improved fuel efficiency and reduced emissions."
+HONEYWELL INTERNATIONAL INC,HON,2023-02-10T14:09:31-05:00,N/A,N/A
+HONEYWELL INTERNATIONAL INC,HON,2022-02-11T12:37:32-05:00,[Hypothetical] Honeywell HTF7500 Engine Upgrade,[Hypothetical] Enhanced performance and fuel efficiency upgrade for existing HTF7500 series aircraft engines.
+HONEYWELL INTERNATIONAL INC,HON,2021-02-12T14:31:39-05:00,Aircraft Engines & Engine Parts,"Parts related to the aircraft engine industry, the company SIC code."
+HONEYWELL INTERNATIONAL INC,HON,2019-02-08T14:09:10-05:00,Motor Vehicle Parts & Accessories,"Updates to the Motor Vehicle Parts & Accessories business segment, financial performance, and related strategies."
+HONEYWELL INTERNATIONAL INC,HON,2018-02-09T14:29:41-05:00,[Unable to determine from the provided text],[Unable to determine from the provided text]
+HONEYWELL INTERNATIONAL INC,HON,2017-02-10T15:53:13-05:00,10-K Annual Report,Annual report for fiscal year end 2016-12-31.
+HONEYWELL INTERNATIONAL INC,HON,2016-02-12T13:41:09-05:00,Motor Vehicle Parts & Accessories,[Could not find product details within provided filing]
+COMCAST CORP,CMCSA,2023-02-03T12:15:04-05:00,Streaming Service Bundling Options,New ways to bundle and access streaming services through Comcast's platform.
+COMCAST CORP,CMCSA,2022-02-02T15:15:17-05:00,Internet & Cable Services,Comcast provides internet and cable services to residential and business customers.
+COMCAST CORP,CMCSA,2020-01-30T16:41:57-05:00,Cable & Other Pay Television Services,Provides cable and other pay television services.
+COMCAST CORP,CMCSA,2017-02-03T14:34:03-05:00,*Potential Focus on Enhancements to Cable & Pay Television Services*,"*Likely involves upgrades to existing cable and pay television offerings, potentially including enhanced streaming capabilities or improved user interfaces.*"
+COMCAST CORP,CMCSA,2016-02-05T17:00:05-05:00,Potential updates to Cable and Pay Television Services,Updates or changes related to Comcast's cable and pay television services.
+CITIGROUP INC,C,2025-02-21T17:12:44-05:00,N/A,N/A
+CITIGROUP INC,C,2024-02-23T17:10:34-05:00,2023 Annual Report (Form 10-K),"Comprehensive report on Citigroup's financial performance and business activities for the year ended December 31, 2023."
+CITIGROUP INC,C,2021-02-26T16:44:10-05:00,Undetermined (potentially a new financial product or service depicted in graphics),Cannot be determined without access to the graphic files within the 10-K filing.
+CITIGROUP INC,C,2020-02-21T17:05:55-05:00,Asia Cards,Graphic images related to cards in the Asia region.
+CITIGROUP INC,C,2019-02-22T16:50:54-05:00,N/A,N/A
+CITIGROUP INC,C,2018-02-23T08:44:36-05:00,N/A,N/A
+CITIGROUP INC,C,2016-02-26T16:45:11-05:00,Residential Mortgages,"This refers to residential mortgage performance and related data, suggesting continued activity in this lending area."
+VERTEX PHARMACEUTICALS INC / MA,VRTX,2025-02-13T16:01:52-05:00,Pharmaceutical Preparations,"Exhibits related to Vertex Pharmaceuticals' 2024 filings, which may detail development and performance of pharmaceutical preparations."
+VERTEX PHARMACEUTICALS INC / MA,VRTX,2024-02-15T16:12:14-05:00,2023 Annual Report (Form 10-K),"Vertex Pharmaceuticals' annual overview of performance and activities for the year ending December 31, 2023."
+VERTEX PHARMACEUTICALS INC / MA,VRTX,2021-02-11T16:03:06-05:00,Pharmaceutical Preparations in Development,"Vertex Pharmaceuticals is likely continuing development of new pharmaceutical preparations, aligning with their core business in pharmaceutical preparations."
+VERTEX PHARMACEUTICALS INC / MA,VRTX,2020-02-13T16:48:57-05:00,TRIKAFTA,"A new therapy, as suggested by the ""trikaftarlogoa02.jpg"" graphic file, seemingly related to Vertex Pharmaceuticals' portfolio of cystic fibrosis treatments (KALYDECO, ORKAMBI, SYMDEKO, SYMKEVI)."
+VERTEX PHARMACEUTICALS INC / MA,VRTX,2019-02-13T16:38:26-05:00,SYMDEKO,A medicine used to treat cystic fibrosis in people ages 12 years and older who have two copies of the F508del mutation.
+VERTEX PHARMACEUTICALS INC / MA,VRTX,2016-02-16T16:23:48-05:00,Pharmaceutical Preparations,"This filing relates to Vertex Pharmaceuticals' annual report, which would include information about their existing and potentially new pharmaceutical preparations."
+DEERE & CO,DE,2023-12-15T10:27:39-05:00,[Unknown],[Unable to determine from the provided filing summary]
+DEERE & CO,DE,2022-12-15T11:32:02-05:00,Farm Machinery & Equipment,Unclear without examining underlying documents. The filing does not contain enough information to confirm a specific new product.
+DEERE & CO,DE,2021-12-16T11:39:34-05:00,Farm Machinery & Equipment,"Annual report filing for farm machinery and equipment manufacturer, Deere & Co."
+DEERE & CO,DE,2020-12-17T11:19:00-05:00,Farm Machinery & Equipment,Annual report filing for a company specializing in farm machinery and equipment.
+DEERE & CO,DE,2018-12-17T12:00:46-05:00,Farm Machinery & Equipment,Annual report mentioning Farm Machinery & Equipment
+DEERE & CO,DE,2017-12-18T11:40:12-05:00,Farm Machinery & Equipment,This is in reference to the Farm Machinery & Equipment that Deere is known to produce.
+DEERE & CO,DE,2016-12-19T10:46:49-05:00,Farm Machinery & Equipment,Machinery and equipment used in agricultural operations.
+DEERE & CO,DE,2016-02-01T14:46:56-05:00,Agricultural Technology Solutions,Enhanced precision farming technologies & equipment for optimized crop management and increased yields.
+TJX COMPANIES INC /DE/,TJX,2024-04-03T11:58:03-04:00,Undetermined - Could potentially be related to store design/marketing,Images in filing might be related to new marketing/store design (inferred).
+TJX COMPANIES INC /DE/,TJX,2022-03-30T11:55:23-04:00,Expansion of Retail Locations,"TJX Companies Inc may expand retail locations to increase the amount of stores, and thus increase revenue."
+TJX COMPANIES INC /DE/,TJX,2021-03-31T11:20:19-04:00,FRAMINGHAM HQ,"TJX Companies HQ location at 770 Cochituate Road, FRAMINGHAM, MA 01701."
+TJX COMPANIES INC /DE/,TJX,2017-03-28T15:26:41-04:00,TJX Companies Retail Stores,Retail-Family Clothing Stores
+TJX COMPANIES INC /DE/,TJX,2016-03-29T16:10:58-04:00,Expansion of Retail Stores,"TJX Companies continues to expand its retail store locations, focusing on family clothing stores."
+TJX COMPANIES INC /DE/,TJX,2015-03-31T16:42:30-04:00,Enhanced Retail Experience,TJX Companies is continually working to improve its retail offerings and customer experience across its various store brands.
